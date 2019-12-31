@@ -1,4 +1,4 @@
-## UsefulApiList
+## Useful Api List
 
 **PokeApi** : https://pokeapi.co/
 
