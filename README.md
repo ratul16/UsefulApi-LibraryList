@@ -1,6 +1,6 @@
 ## Useful Api List
 
-**PokeApi** : [https://pokeapi.co/](https://pokeapi.co/)
+**PokeApi** : (https://pokeapi.co/)
 
 **Destiny 2** : https://bungie-net.github.io/
 
