@@ -44,7 +44,8 @@ CSS frameworks ( https://tailwindcss.com/ )
 **LaxJs** : <br>
 Scroll Animation ( https://alexfox.dev/laxxx/ )
 
-**Deep Learning Anime Papers** : ( https://github.com/deeppomf/DeepLearningAnimePapers#deeplearninganimepapers )
+**Deep Learning Anime Papers** : <br> 
+( https://github.com/deeppomf/DeepLearningAnimePapers#deeplearninganimepapers )
 
 **Face Api Js** : <br>
 Face detection and face recognition in the browser and nodejs with tensorflow.js
