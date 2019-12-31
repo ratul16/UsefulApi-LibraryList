@@ -35,8 +35,7 @@ Complex Css Animation ( https://christinecha.github.io/choreographer-js/ )
 **PopperJs** : 
 Popover library ( https://rishabhp.github.io/bideo.js/ )
 
-**BideoJs** : 
-Fullscreen Background Videos ( https://rishabhp.github.io/bideo.js/ )
+**BideoJs** :   Fullscreen Background Videos ( https://rishabhp.github.io/bideo.js/ )
 
 **Tailwind CSS** : 
 CSS frameworks ( https://tailwindcss.com/ )
