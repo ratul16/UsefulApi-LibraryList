@@ -17,44 +17,44 @@
 
 ## Useful Library Js
 
-**AnimeJs** : 
+**AnimeJs** : <br>
 Animation Library ( https://animejs.com/ )
 
-**AOS** : 
+**AOS** : <br>
 Scroll Animation ( https://michalsnik.github.io/aos/ )
 
-**BideoJs** : 
+**BideoJs** : <br>
 Fullscreen Background Videos ( https://rishabhp.github.io/bideo.js/ )
 
-**ChartJs** : 
+**ChartJs** : <br>
 Chart library ( https://www.chartjs.org/ )
 
-**ChoreographerJs** : 
+**ChoreographerJs** : <br>
 Complex Css Animation ( https://christinecha.github.io/choreographer-js/ )
 
-**PopperJs** : 
+**PopperJs** : <br>
 Popover library ( https://rishabhp.github.io/bideo.js/ )
 
 **BideoJs** : <br>
 Fullscreen Background Videos ( https://rishabhp.github.io/bideo.js/ )
 
-**Tailwind CSS** : 
+**Tailwind CSS** : <br>
 CSS frameworks ( https://tailwindcss.com/ )
 
-**LaxJs** : 
+**LaxJs** : <br>
 Scroll Animation ( https://alexfox.dev/laxxx/ )
 
 **Deep Learning Anime Papers** : ( https://github.com/deeppomf/DeepLearningAnimePapers#deeplearninganimepapers )
 
-**Face Api Js** : 
+**Face Api Js** : <br>
 Face detection and face recognition in the browser and nodejs with tensorflow.js
 ( https://github.com/justadudewhohacks/face-api.js )
 
-**ParticlesJs** : 
+**ParticlesJs** : <br>
 Background particle Animation ( https://vincentgarreau.com/particles.js/ )
 
-**Animate Css** : 
+**Animate Css** : <br>
 Css Animation Library ( https://daneden.github.io/animate.css/ )
 
-**TypedJs** : 
+**TypedJs** : <br>
 JavaScript Typing Animation Library ( https://mattboldt.com/demos/typed-js/ )
