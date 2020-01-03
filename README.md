@@ -14,6 +14,9 @@
 
 **Spotify** : https://doxdox.org/jmperez/spotify-web-api-js
 
+**Medium** : https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@USERNAME 
+(Currently there isn't any way to get JSON directly only XML, This is a way to convert XML to JSON and also have a API call)
+
 
 ## Useful Library Js
 
