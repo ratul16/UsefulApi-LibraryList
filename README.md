@@ -62,3 +62,9 @@ Css Animation Library ( https://daneden.github.io/animate.css/ )
 
 **TypedJs** : <br>
 JavaScript Typing Animation Library ( https://mattboldt.com/demos/typed-js/ )
+
+
+## Useful Extensions 
+
+**Snippet Generator** : <br>
+Useful for generating snippets for Vscode, Sublime & Atom ( https://snippet-generator.app/ )
