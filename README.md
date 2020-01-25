@@ -63,8 +63,13 @@ Css Animation Library ( https://daneden.github.io/animate.css/ )
 **TypedJs** : <br>
 JavaScript Typing Animation Library ( https://mattboldt.com/demos/typed-js/ )
 
+## Useful Github Apps 
+**Imgbot** : <br>
+image optimization bot that optimize your repo images and create a pull request to it( https://imgbot.net/app/ )
 
 ## Useful Extensions 
+
+
 
 **Snippet Generator** : <br>
 Useful for generating snippets for Vscode, Sublime & Atom ( https://snippet-generator.app/ )
